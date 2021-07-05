@@ -1,0 +1,18 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+    display: flex;
+}
+.call-button {
+    text-decoration: none;
+    padding: 8px 8px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(223, 20, 121),rgb(3, 3, 3));
+    color:aqua;
+    font-weight: 600;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 3%;
+    padding-left: 1%;
